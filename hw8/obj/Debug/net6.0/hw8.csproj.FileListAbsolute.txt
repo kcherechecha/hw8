@@ -1,0 +1,5 @@
+/Users/kcherechecha/RiderProjects/hw8/hw8/obj/Debug/net6.0/hw8.csproj.AssemblyReference.cache
+/Users/kcherechecha/RiderProjects/hw8/hw8/obj/Debug/net6.0/hw8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kcherechecha/RiderProjects/hw8/hw8/obj/Debug/net6.0/hw8.AssemblyInfoInputs.cache
+/Users/kcherechecha/RiderProjects/hw8/hw8/obj/Debug/net6.0/hw8.AssemblyInfo.cs
+/Users/kcherechecha/RiderProjects/hw8/hw8/obj/Debug/net6.0/hw8.csproj.CoreCompileInputs.cache

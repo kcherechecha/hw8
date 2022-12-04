@@ -1,0 +1,15 @@
+/Users/kcherechecha/RiderProjects/hw8/t3/bin/Debug/net6.0/t3
+/Users/kcherechecha/RiderProjects/hw8/t3/bin/Debug/net6.0/t3.deps.json
+/Users/kcherechecha/RiderProjects/hw8/t3/bin/Debug/net6.0/t3.runtimeconfig.json
+/Users/kcherechecha/RiderProjects/hw8/t3/bin/Debug/net6.0/t3.dll
+/Users/kcherechecha/RiderProjects/hw8/t3/bin/Debug/net6.0/t3.pdb
+/Users/kcherechecha/RiderProjects/hw8/t3/obj/Debug/net6.0/t3.csproj.AssemblyReference.cache
+/Users/kcherechecha/RiderProjects/hw8/t3/obj/Debug/net6.0/t3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kcherechecha/RiderProjects/hw8/t3/obj/Debug/net6.0/t3.AssemblyInfoInputs.cache
+/Users/kcherechecha/RiderProjects/hw8/t3/obj/Debug/net6.0/t3.AssemblyInfo.cs
+/Users/kcherechecha/RiderProjects/hw8/t3/obj/Debug/net6.0/t3.csproj.CoreCompileInputs.cache
+/Users/kcherechecha/RiderProjects/hw8/t3/obj/Debug/net6.0/t3.dll
+/Users/kcherechecha/RiderProjects/hw8/t3/obj/Debug/net6.0/refint/t3.dll
+/Users/kcherechecha/RiderProjects/hw8/t3/obj/Debug/net6.0/t3.pdb
+/Users/kcherechecha/RiderProjects/hw8/t3/obj/Debug/net6.0/t3.genruntimeconfig.cache
+/Users/kcherechecha/RiderProjects/hw8/t3/obj/Debug/net6.0/ref/t3.dll
